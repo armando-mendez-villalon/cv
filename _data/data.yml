@@ -50,7 +50,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
- degree: PhD in Electrical and Electronic Engineering
+    - degree: PhD in Electrical and Electronic Engineering
       university: University of Nottingham
       time: 2014 - 2018
       details: |
