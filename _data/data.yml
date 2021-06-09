@@ -84,24 +84,16 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+Enployment Experience:
+    - role: Research Fellow
+      time: October 2018 - Present
+      company: University of Nottingham, United Kingdom
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+        Development of early warning sign interventions for mood disorders, mainly Bipolar disorder, working in partnership between the NHS and the Bioengineering Group. 
+          # - Bullet point
+          # - Bullet point
+    - role: Research Associate
+      time: February 2018 - August 2018
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
