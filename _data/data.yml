@@ -91,20 +91,25 @@ experiences:
       company: University of Nottingham, United Kingdom
       details: |
         
-           - Development of early warning sign interventions for mood disorders, mainly Bipolar disorder, working in partnership between the NHS and the Bioengineering Group. 
-           - Non-intrusive remote monitoring. 
+           - Development of early warning sign interventions for mood disorders, mainly Bipolar disorder, working in partnership between the NHS and the Bioengineering Group.
+           - Non-intrusive remote monitoring.
+           - Software, app development and backend engineer.
+           - Development of platform for AHDH studies, mood disorders and depression.
+           - Development of contact tracing system using GPS and Bluetooth to identify COVID-19 infection transmission hotspots.
+           - Full deployment of RADAR-base: database and backend infrastructure for remote monitoring platform from web and mobile app.
+           - Data analysis and signal processing.
+           - Multidisciplinary collaboration between Faculty of Engineering and School of Life Sciences, Computer Sciences and the Institute of Mental Health.
            
     - role: Research Associate
       time: February 2018 - August 2018
       company: University of Nottingham, United Kingdom
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       
+          - Lead in extending the design of a low power wireless system for a rail Internet-of-Things (IoT) application to reduce power consumption and costs, extend the communication range of the radio system within legislative boundaries and standards.
+          - Develop robust communications systems for the control of rail-based transport in partnership between an Industrial Partner - Thales Ground Transportation Systems (Thales-GTS) - and the GGIEMR.
+          - Meet the Industrial Partner requirements according to technical specifications and budget for costumer’s implementation.
+          - Generation of datasheet, and specification and operation manuals.
+          - Real-life environment characterisation (indoors and outdoors) and mathematical analysis for implementation in Reverberation chamber.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
