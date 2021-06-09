@@ -113,7 +113,7 @@ experiences:
       details: |
        
           - PhD research support for the Institute of Mental Health in the project “UNFOLD” aiming to identify the processes involved in developing an identity as a ‘person in recovery’, and how recovery from mental ill health may unfold over time”.
-          - PhD research support for Horizon CDT in the project “Integrating the use of sensing technology to detect early warning signs (EWS) of relapse in bipolar disorder (DB)”, aiming to create a novel self-tracking mobile application which uses a combination of active and passive sensing techniques to detect EWS in BD. The research will use a mobile sensing platform called RADAR-base.
+          - PhD research support for Horizon CDT in the project “Integrating the use of sensing technology to detect early warning signs (EWS) of relapse in bipolar disorder (BD)”, aiming to create a novel self-tracking mobile application which uses a combination of active and passive sensing techniques to detect EWS in BD. The research will use a mobile sensing platform called RADAR-base.
           - Research support and tutoring MSc students’ projects that involve monitoring movement patterns in young participants diagnosed with ADHD.
           
     - role: Research Associate
@@ -126,17 +126,16 @@ experiences:
           - Meet the Industrial Partner requirements according to technical specifications and budget for costumer’s implementation.
           - Generation of datasheet, and specification and operation manuals.
           - Real-life environment characterisation (indoors and outdoors) and mathematical analysis for implementation in Reverberation chamber.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    
+    - role: Laboratory Demonstrator
+      time: September 2014 - January 2018
+      company: University of Nottingham
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+          - Responsible to instruct engineering students about experiments, methods and practical use of equipment for experimentation, being the complementary work of lectures; demonstrating in the following modules: Electronics Laboratory, Matlab, Waveforms and Frequency Analysis, AC circuits, and First-year Project Module.
+          
+
+
 projects:
     title: Projects
     intro: >
