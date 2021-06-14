@@ -18,7 +18,7 @@ sidebar:
     linkedin: armando-mendez-villalon
     #xing: alandoe
     #github: sharu725
-    telegram: # add your nickname without '@' sign
+    #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
     twitter: 'DrArmandoMendez'
@@ -206,23 +206,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+    
+      - name: Matlab & Simulink
+        level: 100%
+        
+      - name: LabVIEW
         level: 95%
+        
+      - name: C++
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Phyton
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+  #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
