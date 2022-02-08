@@ -101,7 +101,7 @@ experiences:
            - Multidisciplinary collaboration between Faculty of Engineering and School of Life Sciences, Computer Sciences and the Institute of Mental Health.
      
     - role: Experimental supervisor
-      time: October 2020 - Present
+      time: October 2020 - September 2021
       company: University of Nottingham
       details: |
        
@@ -182,15 +182,11 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: "Latest developments on the Shielding EffectivenessMeasurements of Materials and Gaskets inReverberation Chambers"
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Angelo Gifuni, Gabriele Gradoni, Christopher Smartt, Steve Greedy, Armando M. Villalón, Luca Bastianelli, Franco Moglie, Valter Mariani Primiani, Stefano Perna, David Thomas
+        conference: IET Science, Measurement and Technology. December 2019.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
