@@ -43,12 +43,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Researcher based in the Bioengineering from the University of Nottingham. Experienced Electronic Engineer specialised in Wireless Communications, RF and Electromagnetic Compatibility and Emissions, with a PhD in Electrical and Electronics Engineering from The University of Nottingham. My current research is focused on platforms and signal processing for remote monitoring for research studies and virtual clinical trials.
+
 education:
     - degree: PhD in Electrical and Electronic Engineering
       university: University of Nottingham
