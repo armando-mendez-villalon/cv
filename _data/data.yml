@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data Engineer working for the Digital Research Service from the University of Nottingham. Experienced Electronic Engineer specialised in Wireless Communications, RF,  Electromagnetic Compatibility and Emissions, with a PhD in Electrical and Electronic Engineering by The University of Nottingham. My current post is focused in the pre-processing and processing of wide datasets, mainly for healthcare research..
+      Data Engineer working for the Digital Research Service from the University of Nottingham. Experienced Electronic Engineer specialised in Wireless Communications, RF,  Electromagnetic Compatibility and Emissions, with a PhD in Electrical and Electronic Engineering by The University of Nottingham. My current post is focused in the pre-processing and processing of wide datasets, mainly for healthcare research.
 #      Researcher based in the Bioengineering Research Group from the University of Nottingham. Experienced Electronic Engineer specialised in Wireless Communications, RF and Electromagnetic Compatibility and Emissions, with a PhD in Electrical and Electronic Engineering by The University of Nottingham. My current research is focused on data collection platforms, sensors, databases and signal processing for remote monitoring used in research studies and virtual clinical trials.
 
 education:
@@ -245,6 +245,12 @@ skills:
 
       - name: Phyton
         level: 95%
+
+      - name: Agile
+        level: 90%
+
+      - name: DevOps
+        level: 90%
 
 #footer: >
   #  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
