@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Armando Méndez-Villalón
-    tagline: Electronic Engineer/Developer
+    tagline: Data Engineer
     avatar: ID.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,6 +82,20 @@ education:
           - Bullet point
           
 experiences:
+    - role: Data Engineer
+      time: May 2022 - Current
+      company: Digital Research Service. University of Nottingham, United Kingdom
+      details: |
+        
+           -  Datasets processing.
+#           - Non-intrusive remote monitoring.
+#           - Software, app development and backend engineer.
+#           - Development of platform for AHDH studies, mood disorders and depression.
+#           - Development of contact tracing system using GPS and Bluetooth to identify COVID-19 infection transmission hotspots.
+#           - Full deployment of RADAR-base: database and backend infrastructure for remote monitoring platform from web and mobile app.
+#           - Data analysis and signal processing.
+#           - Multidisciplinary collaboration between Faculty of Engineering and School of Life Sciences, Computer Sciences and the Institute of Mental Health.
+     
     - role: Research Fellow
       time: October 2018 - April 2022
       company: University of Nottingham, United Kingdom
